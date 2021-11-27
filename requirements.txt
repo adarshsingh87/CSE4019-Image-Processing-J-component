@@ -1,0 +1,4 @@
+python-opencv==3.4.17.0
+numpy==1.14
+imutils
+mediapipe==0.8.5
